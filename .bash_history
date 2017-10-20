@@ -2,7 +2,7 @@
 2
 ?
 git help
-init
+init.bash_history
 clone
 clear
 git config --global core.editor vim
